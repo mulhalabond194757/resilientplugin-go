@@ -1,0 +1,2 @@
+# resilientplugin-go
+Python script
